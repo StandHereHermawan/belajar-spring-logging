@@ -11,6 +11,13 @@ import org.springframework.test.context.TestPropertySource;
 public class LoggingTest {
 
     @Test
+    void testLongLogging() {
+        for (int i = 0; i < 100_000; i++) {
+            log.warn(i + ". " + "Hello World {}", i);
+        }
+    }
+
+    @Test
     void testLog() {
         log.info("Belajar Java");
         log.warn("Maen Sosmed");
