@@ -1,2 +1,6 @@
 2023-08-29T19:57:38.693+07:00  WARN 9704 --- [main] a.belajarspringlogging.LoggingTest       : Maen Sosmed
 2023-08-29T19:57:38.699+07:00 ERROR 9704 --- [main] a.belajarspringlogging.LoggingTest       : Baca dojin
+2023-08-29T20:12:41.598+07:00  WARN 1088 --- [main] a.belajarspringlogging.LoggingTest       : Maen Sosmed
+2023-08-29T20:12:41.599+07:00 ERROR 1088 --- [main] a.belajarspringlogging.LoggingTest       : Baca dojin
+2023-08-29T20:16:58.979+07:00  WARN 11776 --- [main] a.belajarspringlogging.LoggingTest       : Maen Sosmed
+2023-08-29T20:16:58.980+07:00 ERROR 11776 --- [main] a.belajarspringlogging.LoggingTest       : Baca dojin
